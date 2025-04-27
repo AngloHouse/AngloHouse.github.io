@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-27T14:02:13.415Z</updated>
+  <updated>2025-04-27T14:48:56.858Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo常用命令</title>
+    <link href="http://example.com/2025/04/27/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    <id>http://example.com/2025/04/27/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</id>
+    <published>2025-04-27T14:48:00.000Z</published>
+    <updated>2025-04-27T14:48:56.858Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>新建文章：<code>hexo new 名称</code></li><li>清除文件：<code>hexo clean / hexo cl</code></li><li>生成并预览：<code>hexo g -s</code></li><li>生成并部署：<code>hexo g -d</code></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;新建文章：&lt;code&gt;hexo new 名称&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;清除文件：&lt;code&gt;hexo clean / hexo cl&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;生成并预览：&lt;code&gt;hexo g -s&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;生成并部署：</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>《早起的奇迹》读后感</title>
