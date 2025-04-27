@@ -1,3 +1,2 @@
-http://example.com/2025/04/27/%E6%B5%8B%E8%AF%95/
-http://example.com/2025/04/26/hello-world/
+http://example.com/2025/04/27/%E3%80%8A%E6%97%A9%E8%B5%B7%E7%9A%84%E5%A5%87%E8%BF%B9%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/
 http://example.com/

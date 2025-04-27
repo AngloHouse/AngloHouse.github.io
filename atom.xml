@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-27T12:54:42.678Z</updated>
+  <updated>2025-04-27T14:02:13.415Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>《早起的奇迹》读后感</title>
-    <link href="http://example.com/2025/04/27/%E6%B5%8B%E8%AF%95/"/>
-    <id>http://example.com/2025/04/27/%E6%B5%8B%E8%AF%95/</id>
+    <link href="http://example.com/2025/04/27/%E3%80%8A%E6%97%A9%E8%B5%B7%E7%9A%84%E5%A5%87%E8%BF%B9%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/"/>
+    <id>http://example.com/2025/04/27/%E3%80%8A%E6%97%A9%E8%B5%B7%E7%9A%84%E5%A5%87%E8%BF%B9%E3%80%8B%E8%AF%BB%E5%90%8E%E6%84%9F/</id>
     <published>2025-04-27T12:54:25.000Z</published>
-    <updated>2025-04-27T12:54:42.678Z</updated>
+    <updated>2025-04-27T14:02:13.415Z</updated>
     
     <content type="html"><![CDATA[<p>这本书的书名和内容，很有鸡汤的感觉，但我还是看到了一点有意思、有趣的地方。</p><blockquote><p>我发现，睡眠对身体的影响方式在很大程度上取决于我们“相信”自己需要睡多久。换言之，我们早晨醒来时的具体感受并不单纯地取决于睡眠时间的长短，而是受到自我暗示的影响。</p></blockquote><p>虽然不否定物理上的睡眠时间带来的影响因素，但心理上的暗示也是一个影响因素。结合我在《掌控习惯》里看到过的”执行意图“，我可以这么设定：当我感到了消极的自我暗示时，我会给自己一个积极的心理暗示。</p><blockquote><p>“早起”不一定要在早晨</p></blockquote><p>每个人的情况是不同的，有的人因为工作原因，凌晨4、5点就起床了，有的人9、10点才起床。所以，只要相对于自己原先的时间早半个小时到一个小时，再结合微习惯，去做一些事情就好了。</p><p>而且，相对于原来早起半个小时容易一些，如果强行要让自己在5、6点起床，很难坚持下去。</p>]]></content>
     
@@ -31,26 +31,6 @@
     <summary type="html">&lt;p&gt;这本书的书名和内容，很有鸡汤的感觉，但我还是看到了一点有意思、有趣的地方。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我发现，睡眠对身体的影响方式在很大程度上取决于我们“相信”自己需要睡多久。换言之，我们早晨醒来时的具体感受并不单纯地取决于睡眠时间的长短，而是受到自我暗示的影</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2025/04/26/hello-world/"/>
-    <id>http://example.com/2025/04/26/hello-world/</id>
-    <published>2025-04-26T15:31:12.871Z</published>
-    <updated>2022-09-25T09:49:07.592Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
